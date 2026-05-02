@@ -90,10 +90,6 @@ Overall, the project emphasizes data accuracy, report automation, and improved u
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
 ---
 
 
