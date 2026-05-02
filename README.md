@@ -54,7 +54,6 @@
 - [Project Report](#project-report)
 - [Learnings from LST & SST](#learnings-from-lst--sst)
 - [Community Services](#community-services)
-- [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -68,14 +67,8 @@ Additionally, I developed competencies in teamwork, documentation, and deliverin
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
-<div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong><a href="#project1">Project 1:</a></strong> SAP ABAP-Based Healthcare Data Management and Reporting System </p>
-
-</div>
-
 <!-- Project 1 -->
-<h3 id="project1">Project 1: SAP ABAP-Based Healthcare Data Management and Reporting System </h3>
+<h3 id="project1">SAP ABAP-Based Healthcare Data Management and Reporting System </h3>
 <p>
  This project focuses on developing an efficient system for managing and reporting healthcare-related data using SAP ABAP. The main objective is to organize large volumes of data and present it in a structured, user-friendly format to support better decision-making and operational efficiency.
 
@@ -89,8 +82,6 @@ Overall, the project emphasizes data accuracy, report automation, and improved u
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
-
----
 
 
 ## **Learnings from LST and SST**
